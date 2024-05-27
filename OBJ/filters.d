@@ -1,0 +1,12 @@
+..\obj\filters.o: ..\SPEEX\libspeex\filters.c
+..\obj\filters.o: ..\SPEEX\config.h
+..\obj\filters.o: ..\SPEEX\libspeex\filters.h
+..\obj\filters.o: ..\SPEEX\libspeex\arch.h
+..\obj\filters.o: ..\SPEEX\include\speex\speex_types.h
+..\obj\filters.o: ..\SPEEX\include\speex\speex_config_types.h
+..\obj\filters.o: ..\SPEEX\libspeex\fixed_generic.h
+..\obj\filters.o: ..\SPEEX\libspeex\stack_alloc.h
+..\obj\filters.o: ..\SPEEX\libspeex\math_approx.h
+..\obj\filters.o: ..\SPEEX\libspeex\ltp.h
+..\obj\filters.o: ..\SPEEX\include\speex\speex_bits.h
+..\obj\filters.o: C:\tool\keil\ARM\ARMCC\bin\..\include\math.h
